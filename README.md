@@ -8,3 +8,5 @@ Detecting umpire signal Using Computer Vision
    pip install -r requirements.txt
    python main.py
 ```
+![Alt Text](demo.gif)
+
