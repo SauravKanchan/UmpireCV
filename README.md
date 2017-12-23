@@ -1,6 +1,3 @@
-# Handgator #
-Detecting umpire signal Using Computer Vision
-
 ## How to run ##
 ```powershell
    git clone https://github.com/SauravKanchan/UmpireCV.git
